@@ -6,7 +6,7 @@
 
 /**
  *
- * @author zihad
+ * @author Aavi Jit
  */
 import java.awt.Toolkit;
 import java.sql.Connection;
