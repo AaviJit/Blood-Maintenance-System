@@ -13,7 +13,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author zihad
+ * @author Aavi Jit
  */ 
  
 public class Blood_info extends javax.swing.JFrame {
